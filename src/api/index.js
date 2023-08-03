@@ -1,0 +1,1 @@
+export const data = 'https://course-api.com/react-tours-project';
